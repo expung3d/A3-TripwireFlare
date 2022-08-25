@@ -1,5 +1,5 @@
 # A3-TripwireFlare
-A flare replacement for the normally explosive tripwire
+A flare replacement for the normally explosive tripwire. Will illuminate the area around the tripwire when activated. Can be disabled by deactivating the claymore located at the base of the tripwire. Doing so will destroy the entire tripwire. 
 
 
 ## How to Use
